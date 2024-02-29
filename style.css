@@ -1,0 +1,40 @@
+.navBar {
+  background-color: #ed5867;
+  width: auto;
+  height: 70px;
+  margin-bottom: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h1{
+  color: #3300ff;
+}
+
+
+.product-list {
+  float: left;
+}
+
+.cart {
+  float: right;
+  width: 300px;
+}
+
+.product {
+  margin-bottom: 70px;
+}
+
+.add-to-cart-btn {
+  display: inline-block;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.remove-btn {
+  background-color: #dc3545;
+}
